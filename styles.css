@@ -1,0 +1,25 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: "Monserrat", sans-serif;
+    font-weight: initial;
+    background-color: #ddd;
+}
+
+header, footer {
+    background-color: #454546;
+    background-image: linear-gradient(to bottom, #8c8c8c, transparent);
+    border-bottom: 1px solid #454546;
+    padding-top: 0.625em;
+    padding-bottom: 0.625em;
+    text-align: center;
+    color: white;
+}
+
+#informe {
+    padding: 5px;
+}
